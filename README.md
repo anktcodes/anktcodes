@@ -18,16 +18,23 @@ Here are some ideas to get you started:
 
 I am a **Final year BCA student at IGNOU** and an aspiring **Software Development Engineer**. Passionate about building scalable web applications and mastering complex algorithms.
 
+---
+
 ### 🚀 What I'm working on
 - 👨‍💻 **DSA Grind:** Actively solving problems on LeetCode to sharpen my problem-solving skills.
 - 🌐 **Portfolio:** Building a high-performance personal site to showcase my journey.
 - 🛠️ **Refining SSDAS:** A Full-Stack Sales Analysis System using Flask and PostgreSQL.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, JavaScript
 - **Backend:** Flask, <!-- REST APIs, -->Google Apps Script
 - **Database Mastery:** PostgreSQL (Schema Design, Advanced Joins, and Query Optimization)
 - **Tools:** Git, GitHub, VS Code
+
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!--
 ### 📈 Professional Experience
 **Software / Automation Engineer (MIS) | Goyal Textiles Pvt. Ltd.** *(Aug 2025 – Present)*
@@ -36,7 +43,9 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 - Optimizing legacy processes into reusable, high-performance code-based solutions. 
 -->
 
-### 📊 GitHub Stats & LeetCode
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats & LeetCode
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anktcodes&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anktcodes&layout=compact&theme=radical)
@@ -50,8 +59,8 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 - **Email:** [ap349500@gmail.com](mailto:ap349500@gmail.com)
 - **Portfolio:** [Visit my Website](https://anktcodes.github.io/portfolio/)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 *"I can't achieve great things immediately. But i can achieve them gradualy in long run."*
 
 *"I can't achieve everything, but i can definitely achieve many things."*
