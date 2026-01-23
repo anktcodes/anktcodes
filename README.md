@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Ankit Pal 👋
+# Hey there, Ankit here 👋
 
 I am a **Final year BCA student at IGNOU** and an aspiring **Software Development Engineer**. Passionate about building scalable web applications and mastering complex algorithms.
 
@@ -38,11 +38,12 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 
 ### 📊 GitHub Stats & LeetCode
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anktcodes&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anktcodes&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect!
+### 🤝 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/ankit-pal](https://www.linkedin.com/in/ankit-pal-69a309319/)
 - **LeetCode:** [@anktcodes](https://leetcode.com/u/anktcodes/)
 - **X (Twitter):** [@ankitpal1855](https://x.com/ankitpal1855)
@@ -52,4 +53,5 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 
 ---
 *"I can't achieve great things immediately. But i can achieve them gradualy in long run."*
+
 *"I can't achieve everything, but i can definitely achieve many things."*
