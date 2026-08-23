@@ -55,7 +55,7 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 ### 🤝 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/ankit-pal](https://www.linkedin.com/in/ankit-pal-69a309319/)
 - **LeetCode:** [@anktcodes](https://leetcode.com/u/anktcodes/)
-- **X (Twitter):** [@ankitpal1855](https://x.com/ankitpal1855)
+- **X (Twitter):** [@anktcodes](https://x.com/anktcodes)
 - **Email:** [ap349500@gmail.com](mailto:ap349500@gmail.com)
 - **Portfolio:** [Visit my Website](https://anktcodes.github.io/portfolio/)
 
