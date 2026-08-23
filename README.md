@@ -43,13 +43,6 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 - Optimizing legacy processes into reusable, high-performance code-based solutions. 
 -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats & LeetCode
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anktcodes&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anktcodes&layout=compact&theme=radical)
-
 ---
 
 ### 🤝 Let's Connect!
