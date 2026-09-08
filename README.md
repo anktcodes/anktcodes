@@ -23,15 +23,15 @@ I am a **Final year BCA student at IGNOU** and an aspiring **Software Developmen
 ### 🚀 What I'm working on
 - 👨‍💻 **DSA Grind:** Actively solving problems on LeetCode to sharpen my problem-solving skills.
 - 🌐 **Portfolio:** Building a high-performance personal site to showcase my journey.
-- 🛠️ **Refining SSDAS:** A Full-Stack Sales Analysis System using Flask and PostgreSQL.
+- 🌐 **YT Clone:** A Full-Stack Youtube clone which serves videos and allows to upload videos.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, JavaScript
-- **Backend:** Flask, <!-- REST APIs, -->Google Apps Script
-- **Database Mastery:** PostgreSQL (Schema Design, Advanced Joins, and Query Optimization)
-- **Tools:** Git, GitHub, VS Code
+- **Backend:** FastAPI, Node.js, Express.js, Rest APIs  
+- **Database:** PostgreSQL (Schema Design, Advanced Joins, and Query Optimization)
+- **Tools:** Git, GitHub, VS Code, cURL
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
